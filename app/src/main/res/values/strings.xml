@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IE BlckBox</string>
+    <string name="prev">-</string>
+    <string name="next">+</string>
+</resources>
